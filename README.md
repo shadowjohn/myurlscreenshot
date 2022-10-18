@@ -27,3 +27,9 @@ Author:
   Example:
     screenshot.exe -u "https://3wa.tw" -d 3000 -o "output_3wa.png"
 
+圖說：
+  <img src="screenshot/screenshot1.png">
+  使用方法
+  
+  <img src="screenshot/output_3wa.png">
+  結果
