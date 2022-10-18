@@ -21,10 +21,12 @@ Author:
   
     python.exe screenshot.py -h
     
-  Dist:  
+  Dist:
+  
     screenshot.exe -u <URL> -d <Delay[ms]> -o <outputfile>
 
   Example:
+  
     screenshot.exe -u "https://3wa.tw" -d 3000 -o "output_3wa.png"
 
 圖說：
