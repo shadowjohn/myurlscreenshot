@@ -1,0 +1,7 @@
+﻿build
+*.pyc
+dist/old
+dist/old/*
+dist/*.zip
+dist/*.rar
+/.vs

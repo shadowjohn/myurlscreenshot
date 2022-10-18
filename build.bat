@@ -1,0 +1,1 @@
+c:\python27\scripts\pyinstaller -F -c --onefile --clean screenshot.py
